@@ -65,3 +65,12 @@ section p, main p {
     padding: 0 1em;
 }
 
+nav {
+    position: sticky;
+    top: 0em;
+    background-color: white;
+}
+
+.even-more-articles section {
+    width: 25%;
+}
